@@ -5,7 +5,7 @@ print ("hello")
 print("world!")
 print("world!")
 print("world!")
-print("hi there\n123466444455226")
+print("hi there\n26OK")
 
 print("hi there\n123466444455226hhedes")
 print("hahaha")
